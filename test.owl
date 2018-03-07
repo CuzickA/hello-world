@@ -62,26 +62,6 @@
         <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-03-06T09:45:04Z</dc:date>
         <rdfs:label xml:lang="en">test2</rdfs:label>
     </owl:Class>
-    
-
-
-    <!-- http://www.co-ode.org/ontologies/ont.owl#PHI_0000036 -->
-
-    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#PHI_0000036">
-        <dc:Creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alayne Cuzick</dc:Creator>
-        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-03-07T12:06:35Z</dc:date>
-        <rdfs:label xml:lang="en">test3</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- http://www.co-ode.org/ontologies/ont.owl#PHI_0000037 -->
-
-    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#PHI_0000037">
-        <dc:Creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alayne Cuzick</dc:Creator>
-        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-03-07T12:06:44Z</dc:date>
-        <rdfs:label xml:lang="en">test4</rdfs:label>
-    </owl:Class>
 </rdf:RDF>
 
 
